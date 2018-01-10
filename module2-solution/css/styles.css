@@ -3,6 +3,7 @@
   box-sizing:border-box;
   font-family: Sans-serif;
 }
+
 h1 {
   margin-bottom: 15px;
   text-align: center;
@@ -23,6 +24,7 @@ div.container{
   background-color: #D3D3D3;
   margin: 10px;
   position: relative;
+  float: left;
 }
 
 p#Chicken{

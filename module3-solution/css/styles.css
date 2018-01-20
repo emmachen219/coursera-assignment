@@ -41,6 +41,7 @@ body {
   padding: 15px;
 }
 .category-tile > span{
+  font-size:0.8em;
   padding:0px 15px 10px;
 }
 

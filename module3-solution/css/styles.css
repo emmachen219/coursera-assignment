@@ -28,6 +28,21 @@ body {
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
+#collapsable-nav{
+  padding: 0px;
+  margin: auto -12px auto;
+}
+#nav-list {
+  margin: 0px;
+}
+#nav-list a {
+  background: #424344;
+  color:#42f4e2;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #cec767;
+}
 /** END OF HEADER **/
 
 /** MAIN CONTENT **/
